@@ -1,7 +1,8 @@
 # Web Scraping and Data Preparation for Analysis Project
 
 ## Introduction
-Web scraping in Thailand is legally ambiguous, so exercise caution and responsibility while conducting this project. Each team member is assigned a specific website to scrape individually. Follow the detailed steps below to ensure consistency and accuracy in data collection.
+Web scraping in Thailand is legally ambiguous, so exercise caution and responsibility while conducting this project. 
+In this project, our team member is assigned a specific website to scrape individually. Follow the detailed steps below:
 
 ## Steps for Web Scraping
 
@@ -24,7 +25,7 @@ Web scraping in Thailand is legally ambiguous, so exercise caution and responsib
    - Export the scraped data for further processing.
 
 ### Data Storage
-All scraped data links are stored in the following repository:
+All scraped data links are stored in here:
 #### All Scrape Links
 ![Customer Overview](webscraping+prepareProject/pic/allScrapProject.png)
 
@@ -36,7 +37,7 @@ After scraping, clean the data to ensure it is ready for analysis. The cleaning 
 - Dropping duplicate titles.
 
 ### Cleaned Data Result
-The cleaned data is stored and visualized here:
+The cleaned data's resul there:
 ![Customer Overview](webscraping+prepareProject/pic/cleanResult.png)
 
 ## Data Preparation and Analysis
@@ -47,16 +48,3 @@ To enhance the dataset for analysis, additional processing steps are performed, 
 To facilitate easier analysis, prepare and design relational database tables. This structured approach helps in organizing and retrieving data efficiently.
 ![Database](webscraping+prepareProject/pic/DatBaseRationalDesign.png)
 
-## Conclusion
-
-This project outlines the steps for web scraping, data cleaning, and preparing data for analysis. The careful execution of each step ensures high-quality, reliable data, which is crucial for accurate analysis.
-
-## Professional Tips
-- Always verify the legality of web scraping activities in your jurisdiction.
-- Ensure ethical scraping practices by respecting website terms of service.
-- Validate and clean your data thoroughly to maintain the integrity of your analysis.
-
-By following these guidelines, you can achieve efficient and effective data scraping and preparation for insightful analysis.
-
----
-This readme has been structured to look more professional and provide clear guidance on the web scraping and data preparation process, including the use of NLP techniques for linguistic analysis.
