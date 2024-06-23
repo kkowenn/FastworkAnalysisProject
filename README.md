@@ -1,8 +1,7 @@
-# Web Scraping and Data Preparation for Analysis Project
+# Fastwork Analysis Project (webscraping + prepareDATA + EDA + Testing hypothesis by using python, machine learning(nlp, regression etc.), excel and using google looker)
 
 ## Introduction
-Web scraping in Thailand is legally ambiguous, so exercise caution and responsibility while conducting this project. 
-In this project, our team member is assigned a specific website to scrape individually. Follow the detailed steps below:
+Web scraping in Thailand is a legally ambiguous area. It's essential to exercise caution and responsibility while conducting this project to ensure ethical data collection practices. The goal of this project is to scrape data from a specific website, clean and prepare the data, perform exploratory data analysis (EDA), and test various hypotheses using Python, machine learning techniques (such as natural language processing and regression), and visualization tools like Excel and Google Looker.
 
 ## Steps for Web Scraping
 
@@ -44,7 +43,16 @@ The cleaned data's resul there:
 
 To enhance the dataset for analysis, additional processing steps are performed, including the use of NLP (Natural Language Processing) techniques. Specifically, NLPthai is utilized to count the number of Thai and English words in the new data. This helps in understanding the linguistic distribution within the dataset.
 
-### Relational Database Model Design
+### Relational Database Model Design 
 To facilitate easier analysis, prepare and design relational database tables. This structured approach helps in organizing and retrieving data efficiently. (this one just draft)
 ![Database](webscraping+prepareProject/pic/DatBaseRationalDesign.png)
+
+## Testing hypothesis #1
+- Low price make more sold??
+
+This is just 1 example in FastWork1HypothesisHowToSell repo
+![Customer Overview](webscraping+prepareProject/pic/1.png)
+Logistic Regression: The coefficient for 'cost_post' shows how changes in cost (price) of the post affect the likelihood of getting a job: Positive coefficient (should sell expensive)
+- Positive Coefficient (Bars to the right): If the coefficient for 'cost_post' is positive, it means that higher costs are associated with a higher likelihood of job acquisitions in that sub-category. In other words, as the cost increases, the probability of acquiring a job increases.
+- Negative Coefficient (Bars to the left): If the coefficient for 'cost_post' is negative, it indicates that higher costs are associated with a lower likelihood of job acquisitions. Thus, as the cost increases, the probability of acquiring a job decreases.
 
