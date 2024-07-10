@@ -45,8 +45,6 @@ To enhance the dataset for analysis, additional processing steps are performed, 
 
 ## Relational Database Model Design 
 To facilitate easier analysis, prepare and design relational database tables. This structured approach helps in organizing and retrieving data efficiently. (this one just draft)
-
-For the Thai language component, I utilized the ThaiNLP library. Unlike English, Thai words are not separated by spaces, necessitating tokenization to identify individual words. I applied ThaiNLP to tokenize the Thai text or words and determine the most frequently occurring words, enabling the extraction of insights from the titles and make in review or comment if i have dataset more.
 ![Database](webscraping+prepareProject/pic/DatBaseRationalDesign.png)
 
 
