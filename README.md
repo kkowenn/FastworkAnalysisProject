@@ -54,6 +54,7 @@ This is just 1 dashboard example
 ![image](123.png)
 
 ## Testing hypothesis #1
+https://github.com/kkowenn/FastworkAnalysisProject/blob/main/FastWork1HypothesisHowToSell/FastWork1HypothesisHowToSell.pdf
 - Low price make more sold??
 
 This is just 1 example in FastWork1HypothesisHowToSell.png in this repo
