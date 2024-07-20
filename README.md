@@ -64,3 +64,14 @@ Logistic Regression: The coefficient for 'cost_post' shows how changes in cost (
   
 - Negative Coefficient (Bars to the left): If the coefficient for 'cost_post' is negative, it indicates that higher costs are associated with a lower likelihood of job acquisitions. Thus, as the cost increases, the probability of acquiring a job decreases.
 
+## Final Work 
+https://medium.com/@data.tanaboon/%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5-data-analyte-%E0%B8%9A%E0%B8%99-fastwork-b0c86aac2c58
+
+teammate:
+Kritsada kruapat, Sub.Soravit, Nattida SupmeechaiTanaboon Charoenchon,
+
+
+
+
+
+
