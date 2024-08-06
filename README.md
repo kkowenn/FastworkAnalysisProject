@@ -53,16 +53,21 @@ This is just 1 dashboard example
  this dashboard provides a comprehensive analysis of the freelance market, highlighting key areas such as the number of hires and revenue generated across different job categories and subcategories
 ![image](123.png)
 
-## Testing hypothesis #1
-https://github.com/kkowenn/FastworkAnalysisProject/blob/main/FastWork1HypothesisHowToSell/FastWork1HypothesisHowToSell.pdf
-- Low price make more sold??
+## hypothesis 
 
-This is just 1 example in FastWork1HypothesisHowToSell.png in this repo
+![image](12.png)
+We begin our analysis by hypothesizing that various elements of a post, such as title length, cost of the post, frequency of commonly used words, and the count of promotional words, impact its ability to drive sales. To determine which of these factors is most significant, we will utilize the Feature Importance score.
+
+- Low price make more sold??
 ![Customer Overview](webscraping+prepareProject/pic/1.png)
 Logistic Regression: The coefficient for 'cost_post' shows how changes in cost (price) of the post affect the likelihood of getting a job: Positive coefficient (should sell expensive)
+
 - Positive Coefficient (Bars to the right): If the coefficient for 'cost_post' is positive, it means that higher costs are associated with a higher likelihood of job acquisitions in that sub-category. In other words, as the cost increases, the probability of acquiring a job increases.
   
 - Negative Coefficient (Bars to the left): If the coefficient for 'cost_post' is negative, it indicates that higher costs are associated with a lower likelihood of job acquisitions. Thus, as the cost increases, the probability of acquiring a job decreases.
+
+### Another analysis in this hypothesis:
+https://github.com/kkowenn/FastworkAnalysisProject/blob/main/FastWork1HypothesisHowToSell/FastWork1HypothesisHowToSell.pdf
 
 ## Final Work 
 https://medium.com/@data.tanaboon/%E0%B8%AB%E0%B8%B2%E0%B8%A3%E0%B8%B2%E0%B8%A2%E0%B9%84%E0%B8%94%E0%B9%89%E0%B9%80%E0%B8%AA%E0%B8%A3%E0%B8%B4%E0%B8%A1%E0%B8%94%E0%B9%89%E0%B8%A7%E0%B8%A2%E0%B8%87%E0%B8%B2%E0%B8%99%E0%B8%A7%E0%B8%B4%E0%B9%80%E0%B8%84%E0%B8%A3%E0%B8%B2%E0%B8%B0%E0%B8%AB%E0%B9%8C%E0%B8%82%E0%B9%89%E0%B8%AD%E0%B8%A1%E0%B8%B9%E0%B8%A5-data-analyte-%E0%B8%9A%E0%B8%99-fastwork-b0c86aac2c58
