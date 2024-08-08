@@ -3,26 +3,6 @@
 ## Introduction
 Web scraping in Thailand is a legally ambiguous area. We are caution and responsibility while conducting this project to ensure ethical data collection practices. The goal of this project is to scrape data from a specific website, clean and prepare the data, perform exploratory data analysis (EDA), and test various hypotheses using Python, machine learning techniques (such as thai natural language processing for text analysis and regression), and visualization tools like Excel and Google Looker.
 
-### Steps for Web Scraping
-
-1. **Install Scrapy.io**
-   - Ensure Scrapy.io is installed on your system to begin the scraping process.
-
-2. **Inspect the Website**
-   - Open Google Chrome.
-   - Navigate to the target website.
-   - Right-click anywhere on the webpage and select "Inspect".
-
-3. **Web Scraper Configuration**
-   - In the Inspect panel, find and click on the "Web Scraper" tab.
-   - Click "Create new sitemap" and then "Import sitemap".
-   - Configure your sitemap according to the website structure.
-
-4. **Scrape the Website**
-   - Once the sitemap is configured, click "Scrape".
-   - Wait for the scraping process to complete.
-   - Export the scraped data for further processing.
-
 ## Data Storage
 All scraped data links are stored in here:
 #### All Scrape Links
