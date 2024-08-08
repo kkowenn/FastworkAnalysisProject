@@ -33,12 +33,18 @@ This is just 1 dashboard example
  this dashboard provides a comprehensive analysis of the freelance market, highlighting key areas such as the number of hires and revenue generated across different job categories and subcategories
 ![image](123.png)
 
-## hypothesis 
+## Hypothesis 
 
-![image](12.png)
+### 1) what key factors for driving sale?:
 We begin our analysis by hypothesizing that various elements of a post, such as title length, cost of the post, frequency of commonly used words, and the count of promotional words, impact its ability to drive sales. To determine which of these factors is most significant, we will utilize the Feature Importance score.
 
-- Low price make more sold??
+![image](12.png)
+
+To identify the significance of each factor, we will use the Feature Importance score from a decision tree model. This score will help us understand how each element influences sales, regardless of whether a longer or shorter title is beneficial.
+
+It's essential to note that a higher Feature Importance score does not necessarily imply that a longer title is better. Instead, it indicates that the title length is an important factor that affects sales in some way, whether it is the optimal length or brevity that drives sales. The decision tree will help us understand the impact of each factor on sales.
+
+### 2) Does a Low Price Lead to More Sales?:
 ![Customer Overview](webscraping+prepareProject/pic/1.png)
 Logistic Regression: The coefficient for 'cost_post' shows how changes in cost (price) of the post affect the likelihood of getting a job: Positive coefficient (should sell expensive)
 
@@ -46,7 +52,7 @@ Logistic Regression: The coefficient for 'cost_post' shows how changes in cost (
   
 - Negative Coefficient (Bars to the left): If the coefficient for 'cost_post' is negative, it indicates that higher costs are associated with a lower likelihood of job acquisitions. Thus, as the cost increases, the probability of acquiring a job decreases.
 
-### Another analysis in this hypothesis:
+### 3) More detail o Hypothesis How To Sell in FASTWORK.COM:
 https://github.com/kkowenn/FastworkAnalysisProject/blob/main/FastWork1HypothesisHowToSell/FastWork1HypothesisHowToSell.pdf
 
 ## Final Work 
